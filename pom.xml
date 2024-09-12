@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>me.wallacedev</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>yokailist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>yokailist</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Yokailist project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
